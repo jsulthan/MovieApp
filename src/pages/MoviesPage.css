@@ -1,0 +1,11 @@
+
+
+.moviesPage--top{
+  background-color: rgb(16, 21, 24);
+}
+
+.moviesPage__results{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
